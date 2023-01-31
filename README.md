@@ -18,5 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maul21&show_icons=true&locale=en" alt="maul21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maul21&" alt="maul21" /></p>
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 </p>
