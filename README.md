@@ -14,5 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
 </p>
+	![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
